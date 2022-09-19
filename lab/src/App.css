@@ -1,0 +1,12 @@
+.app {
+  text-align: center;
+  height: 700px;
+  margin: 10px auto;
+  width: 100%;
+  border: 4px solid black;
+}
+img {
+  width: 100%;
+  background-position: center;
+  background-repeat: inherit;
+}
